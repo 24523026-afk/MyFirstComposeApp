@@ -36,8 +36,8 @@ fun MyFirstScreen() {
         Text(text = "Hi! I am Aufa.")
         Text(text = "My idea: a Campus Event Planner.")
         Image(
-            painter = painterResource(id = R.drawable.ic_launcher_foreground),
-            contentDescription = "App launcher icon"
+            painter = painterResource(id = R.drawable.my_picture),
+            contentDescription = "Barbie"
         )
     }
 }

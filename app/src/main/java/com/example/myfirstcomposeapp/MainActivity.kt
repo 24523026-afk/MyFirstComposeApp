@@ -36,7 +36,7 @@ fun MyFirstScreen() {
                 .fillMaxSize()
                 .padding(48.dp)
         ) {
-            Text(text = "Hi! I am Aufa.")
+            Text(text = "Halo! I am Aufa.")
             Text(text = "My idea: a Campus Event Planner.")
             Image(
                 painter = painterResource(id = R.drawable.my_picture),
